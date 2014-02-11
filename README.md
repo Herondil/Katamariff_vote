@@ -1,4 +1,5 @@
 Katamariff_vote
 ===============
 
-An irc bot to vote for someone in a list
+A FRENCH irc bot to vote for someone in a list.
+Used for the webradio Riff http://riff-radio.org/ !
